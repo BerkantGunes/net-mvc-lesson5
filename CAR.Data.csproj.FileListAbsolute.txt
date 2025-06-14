@@ -1,0 +1,6 @@
+C:\EGITMEN YEDEK\COBAN\2025-05-25_OS\CAR\CAR.Data\bin\Debug\CAR.Data.dll
+C:\EGITMEN YEDEK\COBAN\2025-05-25_OS\CAR\CAR.Data\bin\Debug\CAR.Data.pdb
+C:\EGITMEN YEDEK\COBAN\2025-05-25_OS\CAR\CAR.Data\obj\Debug\CAR.Data.csproj.AssemblyReference.cache
+C:\EGITMEN YEDEK\COBAN\2025-05-25_OS\CAR\CAR.Data\obj\Debug\CAR.Data.csproj.CoreCompileInputs.cache
+C:\EGITMEN YEDEK\COBAN\2025-05-25_OS\CAR\CAR.Data\obj\Debug\CAR.Data.dll
+C:\EGITMEN YEDEK\COBAN\2025-05-25_OS\CAR\CAR.Data\obj\Debug\CAR.Data.pdb
